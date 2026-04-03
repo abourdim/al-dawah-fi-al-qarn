@@ -1,0 +1,12 @@
+{
+  "name": "Islamic Dawah This Century — الدعوة الإسلامية في القرن الحالي",
+  "short_name": "الدعوة الإسلامية",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00838F",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
